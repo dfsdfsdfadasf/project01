@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-	집인데 집가고 싶은 이심정 아십니까??
+	집인데
 </body>
 </html>
