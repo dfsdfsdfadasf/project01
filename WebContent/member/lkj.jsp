@@ -9,6 +9,6 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 </head>
 <body>
-	집인데
+	더 좋게 집가고싶음
 </body>
 </html>
